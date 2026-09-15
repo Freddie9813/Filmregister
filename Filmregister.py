@@ -5,7 +5,7 @@ import film_modul
 
 film_register = [film_modul.Film("Inception"),
                  film_modul.Film("The Matrix"),
-                 film_modul.Film("Interstellar"),]
+                 film_modul.Film("Interstellar")]
 
 
 while True:
